@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f1d1d2&height=200&section=header&text=Ada&fontSize=50&fontColor=818285&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f1d1d2&height=200&section=header&text=Welcome to Ada's Github!&fontSize=50&fontColor=818285&animation=fadeIn" />
 
 
 ### 안녕하세요! 백엔드 개발자 지망생 Ada 입니다! 👋 
