@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f1d1d2&height=200&section=header&text=Welcome to Ada's Github!&fontSize=50&fontColor=818285&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f1d1d2&height=200&section=header&text=Ada&fontSize=50&fontColor=818285&animation=fadeIn" />
 
 
 ### 안녕하세요! 백엔드 개발자 지망생 Ada 입니다! 👋 
@@ -37,14 +37,11 @@
 |🐧 OS | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
   
   <br>
-  <br>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueun330&layout=compact)](https://github.com/jueun330)
   
-  <br><br>
-
   <br>
+
   
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueun330&show_icons=true&bg_color=00000000)
   
