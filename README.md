@@ -38,11 +38,6 @@
   
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jueun330&layout=compact)](https://github.com/jueun330)
-  
-  <br>
-
-  
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueun330&show_icons=true&bg_color=00000000)
   
  </div>
