@@ -11,7 +11,7 @@
    <h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 <div align=center>
-   <a href="https://dex-portfolio.notion.site/Dex-Portfolio-aedf50b5e16b417f965405eede418796">
+   <a href="https://ada-portfolio.notion.site/Trip-Balance-Project-6aad1f3ea6f947c3a79985a4eed08ddf">
       <img src="https://img.shields.io/badge/Portfolio-E20074?style=flat&logo=Files&logoColor=white" />
    </a>
   <a href="https://velog.io/@qwd101">
