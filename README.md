@@ -17,8 +17,8 @@
   <a href="https://velog.io/@qwd101">
       <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
    </a>
-   <a href="mailto:4708408@naver.com">
-      <img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Naver&logoColor=white" />
+   <a href="mailto:bangjueun62@gmail.com">
+      <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
    </a>
    <br>
 </div>
