@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f1d1d2&height=200&section=header&text=Ada's%20Github&fontSize=50&fontColor=565655&animation=fadeIn" />
 
 
-  <h2> 안녕하세요! 백엔드 개발자 지망생 Ada 입니다! 👋 </h2>
+  <h2> 안녕하세요! 백엔드 개발자 Ada 입니다! 👋 </h2>
   
   
 
@@ -37,9 +37,9 @@
   
 |🔩 Part| 📖 Studying |
 |:---:|:---:|
-|📃 Code| <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> |
-|🛠 Tech| <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=Gradle&logoColor=white">|
-|💾 DB| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
+|📃 Code| <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white">|
+|🛠 Tech| <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/akka-C9292C?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> |
+|💾 DB| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/apachecassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
 |⚙️ Tool| <img src="https://img.shields.io/badge/github-7D929E?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira%20Software&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-F8991C?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual%20Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/SSL-F68212?style=for-the-badge&logo=Open%20Access&logoColor=white">|
 |🔍 Cloud| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> |
 |🐧 OS | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
