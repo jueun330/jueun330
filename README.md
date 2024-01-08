@@ -14,9 +14,11 @@
    <a href="https://tb-portfolio.notion.site/Trip-Balance-Project-6aad1f3ea6f947c3a79985a4eed08ddf">
       <img src="https://img.shields.io/badge/Portfolio-8CA1AF?style=flat&logo=Files&logoColor=white" />
    </a>
+  
   <a href="https://velog.io/@qwd101">
       <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
    </a>
+   
    <a href="mailto:bangjueun62@gmail.com">
       <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
    </a>
@@ -25,7 +27,7 @@
 <br>
 <br>
 
-  <h3> ✍ Studied 👩‍🎓 </h3>
+  ## ✍ Studied 👩‍🎓 
   
  #### 💾 플레이데이터 클라우드 부트캠프 3기 22.02.07 ~ 22.06.09
   
@@ -33,7 +35,17 @@
  
   <br>
 
-<h3> 🛠 Stacks 🛠 </h3>
+  <br>
+
+## Work experience 🤹‍♀️
+🖥️ (23.01 - 23.04) 신성통상 온라인IT팀 백엔드 개발자
+
+💻 (23.08 ~ ing) sjh studio 서버팀 백엔드 개발자
+
+<br>
+<br>
+
+## 🛠 Stacks 🛠 
   
 |🔩 Part| 📖 Studying |
 |:---:|:---:|
@@ -45,6 +57,8 @@
 |🐧 OS | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
   
   <br>
+  
+---
 
 ![Ada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueun330&show_icons=true&bg_color=00000000)
   
